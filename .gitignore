@@ -1,0 +1,7 @@
+### Editor ###
+## Vim temp files:
+.*sw[op]
+
+## Python intermediate files
+*.pyc
+__pycache__/
