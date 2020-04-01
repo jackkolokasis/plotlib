@@ -30,7 +30,7 @@ parser = optparse.OptionParser(usage=usage)
 parser.add_option("-i", "--input", dest="input", metavar="FILE", action='append', help="Input File/s")
 parser.add_option("-o", "--output", metavar="FILE", dest="output", default="output.csv", help="Output File")
 parser.add_option("-x", "--xlabel", dest="xlabel", help="X-label")
-parser.add_option("-y", "--ylabel", dest="ylabel", help="X-label")
+parser.add_option("-y", "--ylabel", dest="ylabel", help="Y-label")
 (options, args) = parser.parse_args()
 
 group1 = []     # Group 1 data execution time
