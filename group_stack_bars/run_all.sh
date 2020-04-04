@@ -16,7 +16,7 @@
 ./group_stack_bars.py \
     -i ./data/group1.csv \
     -i ./data/group2.csv \
-    -o ./fig/group_bar_plot.png \
+    -o ./fig/group_stack_bar_plot.png \
     -x "Group Stack Bars Plot" \
     -y "Execution Time (min)"
 
