@@ -1,8 +1,8 @@
-# Group Bars Plot
-A snippet of code to create a group stack bars plot in matplotlib
+# Line Plot
+A snippet of code to create a line plot in matplotlib
 
 <p align="center"> 
-<img src="./fig/group_stack_bar_plot.png">
+<img src="./fig/line_plot.png">
 </p>
 
 ## Configuration
@@ -14,7 +14,7 @@ The config.py file locates all the design parameters (e.g. colors, line width, f
 ```
 ## Help
 ```bash
-./group_stack_bars.py -h
+./line_plot.py -h
 ```
 will show:
 ```

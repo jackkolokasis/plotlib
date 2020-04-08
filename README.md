@@ -2,6 +2,7 @@
 Example of codes to create plots using Python matplotlib https://matplotlib.org
 * [Group Bars Plot](https://github.com/jackkolokasis/plotlib/blob/master/group_bars)
 * [Group Stack Bars Plot](https://github.com/jackkolokasis/plotlib/blob/master/group_stack_bars)
+* [Line Plot](https://github.com/jackkolokasis/plotlib/blob/master/line_plot)
 
 ## Prerequisites
 * Python (>=3.0)
